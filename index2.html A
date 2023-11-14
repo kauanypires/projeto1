@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-<link rel="style2.css">
-<title>página
+   <head>
+     <meta charset="UTF-8">
+     <link rel="style2.css">
+     <title>página2</title>
+</head>
+<body>
+   <header>
+     <h1>Página2</h1>
+   </header>
+   </main>
+
+  </main>
+  <footer>
+
+  </footer>
+</body>
+
+</html>
